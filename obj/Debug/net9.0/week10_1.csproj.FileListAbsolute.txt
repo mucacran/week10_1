@@ -1,0 +1,14 @@
+F:\SERGIO\BYUi\2025\CSE212\week10_1\bin\Debug\net9.0\week10_1.exe
+F:\SERGIO\BYUi\2025\CSE212\week10_1\bin\Debug\net9.0\week10_1.deps.json
+F:\SERGIO\BYUi\2025\CSE212\week10_1\bin\Debug\net9.0\week10_1.runtimeconfig.json
+F:\SERGIO\BYUi\2025\CSE212\week10_1\bin\Debug\net9.0\week10_1.dll
+F:\SERGIO\BYUi\2025\CSE212\week10_1\bin\Debug\net9.0\week10_1.pdb
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.AssemblyInfoInputs.cache
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.AssemblyInfo.cs
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.csproj.CoreCompileInputs.cache
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.dll
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\refint\week10_1.dll
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.pdb
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\week10_1.genruntimeconfig.cache
+F:\SERGIO\BYUi\2025\CSE212\week10_1\obj\Debug\net9.0\ref\week10_1.dll
